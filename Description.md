@@ -1,7 +1,7 @@
 
 
 ##  **Project Title**:
-    - US Superstore Analysis
+- US Superstore Analysis
 
 ## **Data Source**:
    - Kaggle CSV data
